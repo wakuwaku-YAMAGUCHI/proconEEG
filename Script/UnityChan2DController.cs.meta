@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9a0152e6c9da34b73a86cf8b63b544e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameoverText: {instanceID: 0}
+  - MahoPrefab: {instanceID: 0}
+  - sound1: {instanceID: 0}
+  - getCoin: {instanceID: 0}
+  - Hit: {instanceID: 0}
+  - myView: {instanceID: 0}
+  - magicDataBase: {fileID: 11400000, guid: 5539d26eeb173f64c9eaf4cbb52b31f4, type: 2}
+  - hpslider: {instanceID: 0}
+  - mpslider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
